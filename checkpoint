@@ -1,0 +1,2 @@
+model_checkpoint_path: "CNN-weights"
+all_model_checkpoint_paths: "CNN-weights"
